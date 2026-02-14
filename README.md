@@ -13,3 +13,4 @@ Minimal on-chain points tracking contract on Stacks blockchain.
   - `deduct-points(amount)` → deduct points from caller
   - `get-points(user)` → check user points
 2026-02-14 19:08:42 - updated points function
+2026-02-14 19:08:53 - added test case
