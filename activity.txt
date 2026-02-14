@@ -1,1 +1,2 @@
 2026-02-14 19:08:33 - adjusted calculation
+2026-02-14 19:08:58 - updated points function
