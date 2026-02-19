@@ -219,3 +219,4 @@ Minimal on-chain points tracking contract on Stacks blockchain.
 2026-02-19 14:49:12 - adjusted calculation
 2026-02-19 14:49:27 - added test case
 2026-02-19 14:50:17 - adjusted calculation
+2026-02-19 21:24:01 - updated points function
