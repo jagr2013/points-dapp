@@ -292,3 +292,4 @@
 2026-02-21 11:47:25 - added test case
 2026-02-21 11:47:40 - added test case
 2026-02-21 11:47:51 - updated points function
+2026-02-21 11:48:00 - adjusted calculation
