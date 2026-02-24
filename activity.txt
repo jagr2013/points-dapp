@@ -305,3 +305,4 @@
 2026-02-24 15:25:37 - updated points function
 2026-02-24 15:26:03 - updated points function
 2026-02-24 15:26:21 - updated points function
+2026-02-24 15:26:41 - adjusted calculation
