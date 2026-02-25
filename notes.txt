@@ -335,3 +335,4 @@
 2026-02-25 08:04:09 - adjusted calculation
 2026-02-25 08:04:36 - adjusted calculation
 2026-02-25 08:05:34 - adjusted calculation
+2026-02-25 08:06:01 - updated points function
